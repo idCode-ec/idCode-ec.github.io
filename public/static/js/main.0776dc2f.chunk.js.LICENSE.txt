@@ -1,0 +1,3 @@
+//! despues actualizar
+
+//!revisar si coge en todos los reles o solo en ese
