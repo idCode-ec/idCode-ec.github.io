@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5651e43.chunk.css",
-    "main.js": "/static/js/main.b91c3bf0.chunk.js",
-    "main.js.map": "/static/js/main.b91c3bf0.chunk.js.map",
+    "main.css": "/static/css/main.b7168d5c.chunk.css",
+    "main.js": "/static/js/main.2075e804.chunk.js",
+    "main.js.map": "/static/js/main.2075e804.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7a450cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7a450cf.js.map",
     "static/js/2.30cdd6fd.chunk.js": "/static/js/2.30cdd6fd.chunk.js",
@@ -14,16 +14,17 @@
     "static/js/4.174ac87c.chunk.js.map": "/static/js/4.174ac87c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.61b4cb56.chunk.css.map": "/static/css/3.61b4cb56.chunk.css.map",
-    "static/css/main.e5651e43.chunk.css.map": "/static/css/main.e5651e43.chunk.css.map",
+    "static/css/main.b7168d5c.chunk.css.map": "/static/css/main.b7168d5c.chunk.css.map",
     "static/js/2.30cdd6fd.chunk.js.LICENSE.txt": "/static/js/2.30cdd6fd.chunk.js.LICENSE.txt",
     "static/js/3.fd0be252.chunk.js.LICENSE.txt": "/static/js/3.fd0be252.chunk.js.LICENSE.txt",
     "static/js/4.174ac87c.chunk.js.LICENSE.txt": "/static/js/4.174ac87c.chunk.js.LICENSE.txt",
-    "static/js/main.b91c3bf0.chunk.js.LICENSE.txt": "/static/js/main.b91c3bf0.chunk.js.LICENSE.txt",
+    "static/js/main.2075e804.chunk.js.LICENSE.txt": "/static/js/main.2075e804.chunk.js.LICENSE.txt",
     "static/media/banner_1.9cecfda6.png": "/static/media/banner_1.9cecfda6.png",
     "static/media/banner_2.5843fe8e.png": "/static/media/banner_2.5843fe8e.png",
     "static/media/banner_3.af1a745f.png": "/static/media/banner_3.af1a745f.png",
     "static/media/coverturas.css": "/static/media/coverturas.3d4b9f72.png",
     "static/media/googlePlay.415cee4b.png": "/static/media/googlePlay.415cee4b.png",
+    "static/media/id_logo.af209247.png": "/static/media/id_logo.af209247.png",
     "static/media/image-courier.81e37d8f.jpeg": "/static/media/image-courier.81e37d8f.jpeg",
     "static/media/home.css": "/static/media/user_4.b43163f7.png",
     "static/media/logoRapifas.ade20512.png": "/static/media/logoRapifas.ade20512.png",
@@ -39,7 +40,7 @@
     "static/js/runtime-main.c7a450cf.js",
     "static/css/3.61b4cb56.chunk.css",
     "static/js/3.fd0be252.chunk.js",
-    "static/css/main.e5651e43.chunk.css",
-    "static/js/main.b91c3bf0.chunk.js"
+    "static/css/main.b7168d5c.chunk.css",
+    "static/js/main.2075e804.chunk.js"
   ]
 }
