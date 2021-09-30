@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.67a87952.chunk.css",
-    "main.js": "/static/js/main.f1787bbe.chunk.js",
-    "main.js.map": "/static/js/main.f1787bbe.chunk.js.map",
+    "main.css": "/static/css/main.93e9e076.chunk.css",
+    "main.js": "/static/js/main.64cc95f9.chunk.js",
+    "main.js.map": "/static/js/main.64cc95f9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7a450cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7a450cf.js.map",
     "static/js/2.30cdd6fd.chunk.js": "/static/js/2.30cdd6fd.chunk.js",
@@ -14,23 +14,22 @@
     "static/js/4.174ac87c.chunk.js.map": "/static/js/4.174ac87c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.61b4cb56.chunk.css.map": "/static/css/3.61b4cb56.chunk.css.map",
-    "static/css/main.67a87952.chunk.css.map": "/static/css/main.67a87952.chunk.css.map",
+    "static/css/main.93e9e076.chunk.css.map": "/static/css/main.93e9e076.chunk.css.map",
     "static/js/2.30cdd6fd.chunk.js.LICENSE.txt": "/static/js/2.30cdd6fd.chunk.js.LICENSE.txt",
     "static/js/3.c8300669.chunk.js.LICENSE.txt": "/static/js/3.c8300669.chunk.js.LICENSE.txt",
     "static/js/4.174ac87c.chunk.js.LICENSE.txt": "/static/js/4.174ac87c.chunk.js.LICENSE.txt",
-    "static/js/main.f1787bbe.chunk.js.LICENSE.txt": "/static/js/main.f1787bbe.chunk.js.LICENSE.txt",
+    "static/js/main.64cc95f9.chunk.js.LICENSE.txt": "/static/js/main.64cc95f9.chunk.js.LICENSE.txt",
     "static/media/banner_1.9cecfda6.png": "/static/media/banner_1.9cecfda6.png",
     "static/media/banner_2.5843fe8e.png": "/static/media/banner_2.5843fe8e.png",
     "static/media/banner_3.af1a745f.png": "/static/media/banner_3.af1a745f.png",
     "static/media/coverturas.css": "/static/media/coverturas.3d4b9f72.png",
     "static/media/googlePlay.415cee4b.png": "/static/media/googlePlay.415cee4b.png",
-    "static/media/id_logo.af209247.png": "/static/media/id_logo.af209247.png",
     "static/media/image-courier.81e37d8f.jpeg": "/static/media/image-courier.81e37d8f.jpeg",
     "static/media/home.css": "/static/media/user_4.b43163f7.png",
     "static/media/logoRapifas.ade20512.png": "/static/media/logoRapifas.ade20512.png",
     "static/media/contactanos.css": "/static/media/map-image.3cd6dd98.png",
     "static/media/mision.ff459af1.png": "/static/media/mision.ff459af1.png",
-    "static/media/new_logo.be5cb35e.png": "/static/media/new_logo.be5cb35e.png",
+    "static/media/new_logo.4197fb1f.png": "/static/media/new_logo.4197fb1f.png",
     "static/media/nosotros-person.353e89f4.png": "/static/media/nosotros-person.353e89f4.png",
     "static/media/login.css": "/static/media/rapifast_logo_blue.57c67ec6.png",
     "static/media/empresa-page.css": "/static/media/valija.fe443fd5.png",
@@ -40,7 +39,7 @@
     "static/js/runtime-main.c7a450cf.js",
     "static/css/3.61b4cb56.chunk.css",
     "static/js/3.c8300669.chunk.js",
-    "static/css/main.67a87952.chunk.css",
-    "static/js/main.f1787bbe.chunk.js"
+    "static/css/main.93e9e076.chunk.css",
+    "static/js/main.64cc95f9.chunk.js"
   ]
 }
