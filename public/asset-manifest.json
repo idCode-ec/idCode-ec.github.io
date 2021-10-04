@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.93e9e076.chunk.css",
-    "main.js": "/static/js/main.64cc95f9.chunk.js",
-    "main.js.map": "/static/js/main.64cc95f9.chunk.js.map",
+    "main.css": "/static/css/main.9287359a.chunk.css",
+    "main.js": "/static/js/main.f9877bcc.chunk.js",
+    "main.js.map": "/static/js/main.f9877bcc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7a450cf.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7a450cf.js.map",
     "static/js/2.30cdd6fd.chunk.js": "/static/js/2.30cdd6fd.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.174ac87c.chunk.js.map": "/static/js/4.174ac87c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.61b4cb56.chunk.css.map": "/static/css/3.61b4cb56.chunk.css.map",
-    "static/css/main.93e9e076.chunk.css.map": "/static/css/main.93e9e076.chunk.css.map",
+    "static/css/main.9287359a.chunk.css.map": "/static/css/main.9287359a.chunk.css.map",
     "static/js/2.30cdd6fd.chunk.js.LICENSE.txt": "/static/js/2.30cdd6fd.chunk.js.LICENSE.txt",
     "static/js/3.c8300669.chunk.js.LICENSE.txt": "/static/js/3.c8300669.chunk.js.LICENSE.txt",
     "static/js/4.174ac87c.chunk.js.LICENSE.txt": "/static/js/4.174ac87c.chunk.js.LICENSE.txt",
-    "static/js/main.64cc95f9.chunk.js.LICENSE.txt": "/static/js/main.64cc95f9.chunk.js.LICENSE.txt",
+    "static/js/main.f9877bcc.chunk.js.LICENSE.txt": "/static/js/main.f9877bcc.chunk.js.LICENSE.txt",
     "static/media/banner_1.9cecfda6.png": "/static/media/banner_1.9cecfda6.png",
     "static/media/banner_2.5843fe8e.png": "/static/media/banner_2.5843fe8e.png",
     "static/media/banner_3.af1a745f.png": "/static/media/banner_3.af1a745f.png",
@@ -29,7 +29,7 @@
     "static/media/logoRapifas.ade20512.png": "/static/media/logoRapifas.ade20512.png",
     "static/media/contactanos.css": "/static/media/map-image.3cd6dd98.png",
     "static/media/mision.ff459af1.png": "/static/media/mision.ff459af1.png",
-    "static/media/new_logo.4197fb1f.png": "/static/media/new_logo.4197fb1f.png",
+    "static/media/new_logo.9db02407.png": "/static/media/new_logo.9db02407.png",
     "static/media/nosotros-person.353e89f4.png": "/static/media/nosotros-person.353e89f4.png",
     "static/media/login.css": "/static/media/rapifast_logo_blue.57c67ec6.png",
     "static/media/empresa-page.css": "/static/media/valija.fe443fd5.png",
@@ -39,7 +39,7 @@
     "static/js/runtime-main.c7a450cf.js",
     "static/css/3.61b4cb56.chunk.css",
     "static/js/3.c8300669.chunk.js",
-    "static/css/main.93e9e076.chunk.css",
-    "static/js/main.64cc95f9.chunk.js"
+    "static/css/main.9287359a.chunk.css",
+    "static/js/main.f9877bcc.chunk.js"
   ]
 }
