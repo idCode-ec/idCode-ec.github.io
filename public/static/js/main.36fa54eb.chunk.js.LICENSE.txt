@@ -1,0 +1,5 @@
+//! despues actualizar
+
+//! fro test await db.collection("guiastest").doc(`${guia.idGuia}`).set(guia);
+
+//!fro test
